@@ -1,6 +1,8 @@
 # webpackBeta - Collaborate with webpack korea style
 >한국형 webpack으로 협업 하기 // Collaborate with webpack korea style
 
+>코드몽키의 기술 불로그(https://jsstudygroup.github.io/jsStudyBlog/archive/)
+
 webpack으로 협업 하는 방법에 대해 한글화 된 문서가 없어서 만들게 되었습니다. <br>
 기왕이면 git repository에 만드는게 좋을 것 같아 여기에 한글 문서를 작성 합니다.
 
