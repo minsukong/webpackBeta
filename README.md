@@ -12,8 +12,8 @@ wiki로 이동하셔서
 webpack #00 부터 순차적으로 보셔도 되고, 아래의 링크를 눌러서 보셔도 
 됩니다.
 
-내용은 짧고, 어렵지 않도록 주의해서 작성 하겠습니다!
-작성자도 초보개발자 이며, 아직도 모든것이 새롭고 어렵기만 합니다^^;
+내용은 짧고, 어렵지 않도록 주의해서 작성 하겠습니다!<br>
+작성자도 초보개발자 이며, 아직도 모든것이 새롭고 어렵기만 합니다!
 
 >***Simple is the best!***
 
@@ -29,5 +29,7 @@ webpack #00 부터 순차적으로 보셔도 되고, 아래의 링크를 눌러�
 * [webpack #02 - webpack을 사용하기 위한 기본 설치](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2302)
 * webpack config에 대한 기본적인 내용
 * webpack 으로 혼자 일하기
+* webpack 으로 jQuery 및 플러그인 불러오기(vendors)
 * webpack 으로 정적 파일을 호스트에 올릴 때 
+* package.json에 대해
 
