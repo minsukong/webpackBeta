@@ -13,6 +13,7 @@ webpack #00 부터 순차적으로 보셔도 되고, 아래의 링크를 눌러�
 됩니다.
 
 내용은 짧고, 어렵지 않도록 주의해서 작성 하겠습니다!
+작성자도 초보개발자 이며, 아직도 모든것이 새롭고 어렵기만 합니다^^;
 
 >***Simple is the best!***
 
@@ -21,10 +22,11 @@ webpack #00 부터 순차적으로 보셔도 되고, 아래의 링크를 눌러�
 
 ## wiki
 
->[한국형 웹팩 wiki 주소](https://github.com/jsStudyGroup/webpackBeta.wiki.git)
+>[한국형 웹팩 wiki 주소](https://github.com/jsStudyGroup/webpackBeta/wiki)
 
 * [webpack #00 - wepack 이란?](https://github.com/jsStudyGroup/webpackBeta/wiki/wepack-%EC%9D%B4%EB%9E%80%3F)
-* [webpack #01 - webpack을 사용하기 위한 기본적인 내용](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%82%B4%EC%9A%A9)
+* [webpack #01 - webpack을 사용하기 위한 아주 기본적인 내용](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2301)
+* [webpack #02 - webpack을 사용하기 위한 기본 설치](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2302)
 * webpack config에 대한 기본적인 내용
 * webpack 으로 혼자 일하기
 * webpack 으로 정적 파일을 호스트에 올릴 때 
