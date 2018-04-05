@@ -18,7 +18,8 @@ P.S Beta를 붙인 이유는 앞으로 계속 수정 해 나갈 예정이고,
 >[한국형 웹팩 wiki 주소](https://github.com/jsStudyGroup/webpackBeta.wiki.git)
 
 * [wepack 이란?](https://github.com/jsStudyGroup/webpackBeta/wiki/wepack-%EC%9D%B4%EB%9E%80%3F)
-* webpack config에 대한 기본적인 이해
+* webpack을 사용하기 위한 기본적인 내용
+* webpack config에 대한 기본적인 내용
 * webpack 으로 혼자 일하기
 * webpack 으로 정적 파일을 호스트에 올릴 때 
 
