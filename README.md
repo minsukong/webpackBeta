@@ -24,7 +24,7 @@ webpack #00 부터 순차적으로 보셔도 되고, 아래의 링크를 눌러�
 
 >[한국형 웹팩 wiki 주소](https://github.com/jsStudyGroup/webpackBeta/wiki)
 
-* [webpack #00 - wepack 이란?](https://github.com/jsStudyGroup/webpackBeta/wiki/wepack-%EC%9D%B4%EB%9E%80%3F)
+* [webpack #00 - wepack 이란?](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2300)
 * [webpack #01 - webpack을 사용하기 위한 아주 기본적인 내용](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2301)
 * [webpack #02 - webpack을 사용하기 위한 기본 설치](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2302)
 * webpack config에 대한 기본적인 내용
