@@ -29,7 +29,8 @@ webpack #00 부터 순차적으로 보셔도 되고, 아래의 링크를 눌러�
 * [webpack #00 - wepack 이란?](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2300)
 * [webpack #01 - webpack을 사용하기 위한 아주 기본적인 내용](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2301)
 * [webpack #02 - webpack을 사용하기 위한 기본 설치](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2302)
-* [webpack config에 대한 기본적인 설정](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2303)
+* [webpack config 기본적인 설정](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2303)
+* [webpack config 세팅](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2304)
 * webpack 으로 jQuery 및 플러그인 불러오기(vendors)
 * webpack 으로 혼자 일하기
 * webpack 으로 정적 파일을 호스트에 올릴 때 

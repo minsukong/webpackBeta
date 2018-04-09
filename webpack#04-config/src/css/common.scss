@@ -1,0 +1,12 @@
+
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css');
+
+body {
+    background-color: #000;
+    background-image: url('../images/what-is-webpack.png');
+
+    &:hover{
+        background-color: rgb(255, 0, 0);
+    }
+}

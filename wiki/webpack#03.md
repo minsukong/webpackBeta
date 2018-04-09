@@ -1,4 +1,4 @@
-# _webpack config에 대한 기본적인 설정_
+# _webpack config 기본적인 설정_
 
 웹팩 기본 설정에 대해 알아 보겠습니다.
 
