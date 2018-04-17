@@ -391,6 +391,8 @@ body {
 "sass"를 사용하기 위해선 "node-sass", "sass-loader"를 설치해야합니다.
     npm i --save-dev node-sass sass-loader
 
+_mac os에서 node-sass 오류가 나면 sudo npm install --unsafe-perm --save-dev node-sass 이렇게 해보시기 바랍니다._
+
 "webpack.config.js"를 열어 아래와 같이 소스를 추가/수정 합니다.
 
 ```javascript
