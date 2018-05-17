@@ -13,7 +13,7 @@
 },
 ```
 - ***"dev"***
-    - ```cross-env NODE_ENV=development``` 노드의 환경변수를 ```development```로 설정. 아래에 좀 더 자세히 설명합니다.
+    - ```cross-env NODE_ENV=development``` 노드의 환경변수를 ```development```로 설정.
     - ```webpack-dev-server``` 웹팩의 개발서버를 실행하고, ```--open``` 옵션을 사용하여 바로 기본 브라우저에서 개발서버가 열리게 설정하였습니다. ```--hot```은 파일이 수정/저장 되었을 때, 수정된 부분만 실시간으로 새로고침 되는 옵션입니다.([HMR](https://webpack.js.org/concepts/hot-module-replacement/)) ```--inline```을 주면 페이지 전체를 새로고침 합니다.
     - webpack.config 파일에 ```devServer```를 아래와 같이 추가 가능합니다.
 ```
@@ -38,7 +38,7 @@ webpack.config에 아래와 같이 소스맵 옵션을 추가합니다.
 
     devtool: '#eval-source-map'
 
-```#eval-source-map```을 추가하면 빌드시엔 생성되지 않고, 있더라 하더라도 디버깅이 되지 않습니다. 개발서버가 실행 됬을 때 사용가능한 소스맵 입니다. 이렇게 개발을 위한 소스맵을 기본적인 옵션으로 설정 하고 아래와 같이 ```production```일 때는 아래와 같이도 사용 할 수 있습니다.
+```#eval-source-map```을 추가하면 빌드시엔 생성되지 않습니다. 개발서버가 실행 됬을 때 사용하는 소스맵 입니다. 이렇게 개발을 위한 소스맵을 기본적인 옵션으로 설정 하고 아래와 같이 ```production```일 때는 아래와 같이도 사용 할 수 있습니다.
 ```javascript
 if (process.env.NODE_ENV === 'production') {
     module.exports.devtool = '#source-map'
