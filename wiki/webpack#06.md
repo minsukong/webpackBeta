@@ -1,7 +1,13 @@
 # _webpack dev와 prod 설정하기#01_
 
 현재 설정에서는 개발버전인지(develop), 배포버전인지(product) 나누지 않았습니다.
-```cross-env```를 설치하고, ```node``` 환경변수를 이용해 좀 더 깊이 있게 소스 관리를 해 봅시다!
+
+    npm i --save-dev webpack-dev-server@2.x webpack-cli
+
+- ***webpack-dev-server@2.x*** 웹팩 개발서버를 설치 합니다.(2.x버전으로 설치 하였습니다.)
+- ***webpack-cli*** 웹팩 CLI도 설치해 주세요.
+
+```node``` 환경변수를 이용하기 위해  ```cross-env```를 설치합니다. 
 
     npm i --save-dev cross-env
 
@@ -73,3 +79,4 @@ if (process.env.NODE_ENV === 'production') {
 
 위 내용들은 아주 기본적인 사용 방법이고, 실제로는 더 복잡하고 다양하게 환경변수를 사용 할 수있습니다.
 
+현재까지 [webpack-config](https://github.com/jsStudyGroup/webpackBeta/tree/master/webpack-config)

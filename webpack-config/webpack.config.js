@@ -6,7 +6,7 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin')
 
 module.exports = {
     entry: {
-        'index' : './src/index.js'
+        'index' : ['babel-polyfill','./src/index.js']
     },
     output: {
         filename: '[name].js',
@@ -33,6 +33,13 @@ module.exports = {
                         }
                     ]
                 })
+            },
+            {
+                test: /\.js$/,
+                include: path.resolve(__dirname),
+                use: {
+                    loader: 'babel-loader'
+                }
             },
             {
                 test: /\.(jpe?g|png|gif|svg)$/,
