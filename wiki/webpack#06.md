@@ -1,4 +1,4 @@
-# _webpack dev와 prod 설정하기#01_
+# _webpack dev와 prod 설정하기_
 
 현재 설정에서는 개발버전인지(develop), 배포버전인지(product) 나누지 않았습니다.
 
