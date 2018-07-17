@@ -33,7 +33,4 @@ webpack #00 부터 순차적으로 보셔도 되고, 아래의 링크를 눌러�
 * [webpack config 세팅](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2304)
 * [webpack Babel](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2305)
 * [webpack dev와 prod 설정하기](https://github.com/jsStudyGroup/webpackBeta/wiki/webpack-%2306)
-* webpack 으로 jQuery 및 플러그인 불러오기(vendors)
-* webpack 으로 정적 파일을 호스트에 올릴 때 
-* package.json에 대해
 
